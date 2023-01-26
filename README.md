@@ -1,3 +1,12 @@
+Ejercitación de Python:
+
+
+Ejercicios del curso Python for everyone.
+Uso de Python notebook.
+Test unitario: pytest.
+
+------------------------------------------------------------------------
+
 Puesta en marcha:
 
 -------------------------------------------------------------------------
