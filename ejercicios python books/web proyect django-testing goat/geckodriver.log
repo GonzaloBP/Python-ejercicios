@@ -1,0 +1,33 @@
+1612827777482	geckodriver	INFO	Listening on 127.0.0.1:33845
+1612827777487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesDv9CP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612827779493	Marionette	INFO	Listening on port 41619
+1612827779612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612827779623	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612827824545	geckodriver	INFO	Listening on 127.0.0.1:36079
+1612827824549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEalfIN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612827826494	Marionette	INFO	Listening on port 45321
+1612827826571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612827826584	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+1612828900312	Marionette	INFO	Stopped listening on port 45321
+1612828964977	geckodriver	INFO	Listening on 127.0.0.1:43275
+1612828964981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3Co6Zq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612828966886	Marionette	INFO	Listening on port 40893
+1612828967005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612828967019	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612829607465	Marionette	INFO	Stopped listening on port 40893
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
